@@ -4,8 +4,9 @@ Theme:
   Echoes of the Machine
 
 Mod Name:
+<pre>
  	Geared Centurion Armor Set
-
+</pre>
   
 Small Description:
  	Stamina-enhancing armor, inspired by fantasy machinery and energy.
